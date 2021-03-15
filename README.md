@@ -5,7 +5,7 @@ conda create env -n NAME -f XX.yml
 #激活环境
 conda activate NAME
 
-#推出环境
+#退出环境
 conda deactivate NAME
 
 #删除环境

@@ -10,3 +10,12 @@ conda deactivate NAME
 
 #删除环境
 conda env remove -n NAME --all
+
+#pkgs channels
+#link1:https://anaconda.org/
+#使用方法
+#conda install + XX
+
+#link2:https://pypi.org/
+#使用方法
+#pip install + XX

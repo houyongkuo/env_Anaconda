@@ -161,4 +161,3 @@ dependencies:
     - pyparsing==2.4.7
     - sklearn==0.0
     - tensorboardx==2.1
-prefix: /home/houyongkuo/.conda/envs/py3-mink

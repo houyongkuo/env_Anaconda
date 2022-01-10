@@ -96,4 +96,3 @@ dependencies:
   - zstd=1.5.1=ha95c52a_0
   - pip:
     - minkowskiengine==0.5.4
-prefix: /home/vge/miniconda3/envs/py3-mink

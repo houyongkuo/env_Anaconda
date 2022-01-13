@@ -1,6 +1,6 @@
 # env_Anaconda
 #创建环境
-conda env create -n NAME -f XX.yml
+conda env create -f XX.yml -n NAME
 
 #激活环境
 conda activate NAME
